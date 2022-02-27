@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tw3lly
-- 👀 I’m interested in all things pentesting
+- 👀 I’m interested in all things cybersecurity
 - 🌱 I’m currently learning python, golang, HTML and penetration testing. 
 
 <!---
