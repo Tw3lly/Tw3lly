@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tw3lly
 - 👀 I’m interested in all things cybersecurity
-- 🌱 I’m currently learning python, golang and penetration testing. 
+- 🌱 I’m currently learning python, powershell, all things blue-teaming. 
 
 
 
